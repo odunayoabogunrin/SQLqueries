@@ -64,6 +64,7 @@ The following queries will give insights that will help him/her make the right d
 
   
 5. I will like to compare if the trend of sales by months in 2017 and 2018 are the same as that of 2019. So what is the profit in percentage for each month in 2017 and 2018?
+
    2017                                               |     2018
    :-------------------------------------------------:|:--------------------------------------------------------------------:
    ![](Percentage_2017.PNG)                           |    ![](Percentage_2018.PNG)
@@ -82,9 +83,23 @@ The following queries will give insights that will help him/her make the right d
 
 **BRAND ANALYSIS**
 ----------------------------------------------------------------------
-To have a better understanding of the sales trend by months and find a possible reason(s) why the total profit for 2019 was lower than the other years, I will do an analysis of the various brands of malt and beer produced by the company
+To have a better understanding of the sales trend by months and find a possible reason(s) why the total profit for 2019 was lower than the other years, I will do an analysis of the various brands of malt and beer produced by the company with the following queries:
 
-1. What are the top three brands consumed in the francophone countries?
+1. What are the top three brands consumed in the francophone and anglophone countries in 2017 and 2019?
+
+   FRANCOPHONE(2017)                                  |     FRANCOPHONE (2019)
+   :-------------------------------------------------:|:--------------------------------------------------------------------:
+   ![](Francophone_2017.PNG)                          |    ![](Francophone_2019.PNG)
+   
+    ANGLOPHONE(2017)                                  |     ANGLOPHONE (2019)
+   :-------------------------------------------------:|:--------------------------------------------------------------------:
+   ![](Anglophone_2017.PNG)                           |    ![](Anglophone_2019.PNG)
+   
+   _The top three brands for both years differ for both regions._
+   
+ 2. 1. What are the top three brands consumed in Nigeria in 2017 and 2019?
+
+
 3. What are the top two choice of consumer brands in Ghana?
 4. What beers are consumed in the past three years in the most oil rich country in West Africa(Nigeria)?
 5. What is the favorite malt brand in the Anglophone region between 2018 and 2019?
