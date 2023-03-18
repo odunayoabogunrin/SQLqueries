@@ -134,7 +134,7 @@ To have a better understanding of the sales trend by months and find a possible 
 
 **RECOMMENDATION**
 -----------------------------------------------------------------------------------------------------------------
-•  In a bid to increase sales and profit in the coming year, there will be a need to intensify efforts such as intense marketing, advertising and brand promotions in order to increase the sales volume of the top brands in all the countries and regions, particularly the top brands in Nigeria such as Budweiser, Eagle Lager and Hero) as this might have an overall impact on the total profit margin of the company. 
+•  In a bid to increase sales and profit in the coming year, there will be a need to intensify efforts such as intense marketing, advertising and brand promotions in order to increase the sales volume of the top brands in all the countries and regions, particularly the top brands such as Budweiser, Eagle Lager, Castle Lite, Beta Malt and Hero) as this might have an overall impact on the total profit margin of the company. 
 
 •In addition, Budweiser seems to be the most preferred brand in Nigeria and in 2019 when the quantity of the brand sold was low, the profit realized was also low. Therefore, efforts should be to made to run some targeted promotions on Budweiser in Nigeria so as to increase its sale and ultimately increase the profit margin of the company in the coming year.
 
